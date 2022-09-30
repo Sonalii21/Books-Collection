@@ -81,6 +81,17 @@ This repository contains free books on different programming languages, Concepts
     "bookLink"   : "https://link.springer.com/book/10.1007/978-3-030-00578-8"
     
      }
+     {
+ 
+    "id" : "526",
+    
+    "bookName" : "Data Structures And Algorithms Made Easy: Data Structures And Algorithmic ",
+    
+    "authorName" : "Narasimha Karumanchi ",
+    
+    "bookLink"   : "https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X"
+    
+     }
 
 
 
